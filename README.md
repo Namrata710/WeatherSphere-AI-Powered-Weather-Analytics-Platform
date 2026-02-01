@@ -1,1 +1,1 @@
-# Weather-App
+# SmaryQuery Analyzer 
